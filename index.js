@@ -14,7 +14,7 @@ window.onscroll = () => {
 };
 
 document.getElementById('resume-button-1').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1UAj5f-fHiInGHRnJJjCvNHGGwzpm3RMo/view?usp=share_link", "_blank");
+  window.open("https://drive.google.com/file/d/10RbxYpBK331VcaQOCAEESV8EgSKFc50j/view?usp=share_link", "_blank");
 });
 
 // document.getElementById('resume-button-2').addEventListener("click", () => {
